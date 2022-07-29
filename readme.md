@@ -1,17 +1,50 @@
-# **Vinay Pratap Singh** #
+# Visual-Designer-Portfolio [![Template Project](https://img.shields.io/badge/Template-Project-red)](http://www.gnu.org/licenses/agpl-3.0) [![Template Project](https://img.shields.io/badge/Technologies%20-HTML%2FCSS-brightgreen)](http://www.gnu.org/licenses/agpl-3.0)
 
-## **Topics I Learned** ##
->Cleared my concept of css positioning. Used css positioning for completing this project and revised my concept using this project.
+This is basically a one pager template project made in HTML/CSS with creativity for an imaginary creatve designer on the internet.
+Hope you like my project !! And Note that I haven't made it responsive it only works in laptop screen if you are useing desktop it won't work as the whole project is based on absolute positioning.
 
- 
->Also used webkit for handling the outline of text. webkit text fill color and webkit text stroke width feature in it.
+## 🛠 Technologies Used
+  - HTML - Hyper Text Markup Language
+  - CSS - Cascadeing Spread Sheet
+  - CSS Absolute Positioning
 
-## **Time Taken** ##
->It takes me around 1.5 hours only.
+## 🚩 Demo
+![14](https://user-images.githubusercontent.com/108281031/181755614-0da1ff9a-c71e-4ea0-9b03-5d50842c8b97.png)
 
-## **Final Output** ##
-![Final Output](./project%2014%20output.png)
+## Run Locally
 
-## **Live Link** ##
-<a href="https://live-class-project-14-harvi.netlify.app/" 
-class="button big"><img alt="Project Link" src="https://img.shields.io/badge/Project%20Link-Live%20Project%2014-brightgreen"></a>
+Clone the project
+
+```bash
+  git clone https://github.com/Srinivasan-Akash/Creative-Portfolio-Non-Responsive.git
+```
+
+Go to the project directory
+
+```bash
+  cd Creative-Portfolio-Non-Responsive
+```
+## ✍️ Author and 📞 Contact
+- [Akash Srinivasan](https://www.github.com/octokatherine)
+    - [Coder Community](https://web.codercommunity.io/user/62d568cb998d86c8883a2766?tab=posts)
+    - [![facebook](https://img.shields.io/badge/Facebook-0A66C2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100083429257499)
+    - [![instagram](https://img.shields.io/badge/Instagram-0A66C2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/akash_prashanthi/)
+    - [![youtube](https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCAv1QdzDgV6MjA60CRtfkIg)
+
+## 📝 Features
+
+- Royalty Free Images used
+- Logo Hover Effect
+- Beautifull UI/UX Design
+- One Pager Template Portfolio
+- Hosted on Netlify and set up in production
+
+## 🤔 What i have learnt By working on this project
+1. Enhanced my cretivity on web development
+2. Used absolute positing a lot mae my hands dirty
+
+## 😌 Honest Time to finish the project
+
+I had took about 42min for createing and for analysing i took more than 30min.
+## 👀 Feedback
+If you have any feedback, please reach out to us at qa.sixsigma@gmail.com
