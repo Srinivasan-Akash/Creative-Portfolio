@@ -9,8 +9,7 @@ Hope you like my project !! And Note that I haven't made it responsive it only w
   - CSS Absolute Positioning
 
 ## 🚩 Demo
-![14](https://user-images.githubusercontent.com/108281031/181755614-0da1ff9a-c71e-4ea0-9b03-5d50842c8b97.png)
-
+<img width="960" alt="29 07 2022_12 02 57_REC" src="https://user-images.githubusercontent.com/108281031/181756391-46d84bf2-bebb-4974-a68d-75497fe7d262.png">
 ## Run Locally
 
 Clone the project
